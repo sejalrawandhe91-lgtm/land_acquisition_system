@@ -1,5 +1,4 @@
-NLAMS Prototype
-Project ID: 26016
+NLAMS Prototpe 
 Project title: National Land Acquisition & Management System
 (NLAMS)
 Department label shown in the interface: Ministry of Rural
